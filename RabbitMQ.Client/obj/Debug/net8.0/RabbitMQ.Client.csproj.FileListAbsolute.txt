@@ -12,3 +12,4 @@
 /Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.Client/obj/Debug/net8.0/RabbitMQ.Client.pdb
 /Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.Client/obj/Debug/net8.0/RabbitMQ.Client.genruntimeconfig.cache
 /Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.Client/obj/Debug/net8.0/ref/RabbitMQ.Client.dll
+/Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.Client/obj/Debug/net8.0/RabbitMQ.Client.sourcelink.json
