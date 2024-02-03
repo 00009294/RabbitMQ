@@ -1,0 +1,14 @@
+/Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.Client/bin/Debug/net8.0/RabbitMQ.Client
+/Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.Client/bin/Debug/net8.0/RabbitMQ.Client.deps.json
+/Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.Client/bin/Debug/net8.0/RabbitMQ.Client.runtimeconfig.json
+/Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.Client/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.Client/bin/Debug/net8.0/RabbitMQ.Client.pdb
+/Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.Client/obj/Debug/net8.0/RabbitMQ.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.Client/obj/Debug/net8.0/RabbitMQ.Client.AssemblyInfoInputs.cache
+/Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.Client/obj/Debug/net8.0/RabbitMQ.Client.AssemblyInfo.cs
+/Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.Client/obj/Debug/net8.0/RabbitMQ.Client.csproj.CoreCompileInputs.cache
+/Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.Client/obj/Debug/net8.0/RabbitMQ.Client.dll
+/Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.Client/obj/Debug/net8.0/refint/RabbitMQ.Client.dll
+/Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.Client/obj/Debug/net8.0/RabbitMQ.Client.pdb
+/Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.Client/obj/Debug/net8.0/RabbitMQ.Client.genruntimeconfig.cache
+/Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.Client/obj/Debug/net8.0/ref/RabbitMQ.Client.dll
