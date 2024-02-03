@@ -31,3 +31,4 @@
 /Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.API/obj/Debug/net8.0/RabbitMQ.API.pdb
 /Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.API/obj/Debug/net8.0/RabbitMQ.API.genruntimeconfig.cache
 /Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.API/obj/Debug/net8.0/ref/RabbitMQ.API.dll
+/Users/Javlonbek/Projects/RabbitMQ/RabbitMQ.API/obj/Debug/net8.0/RabbitMQ.API.sourcelink.json
