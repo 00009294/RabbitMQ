@@ -13,11 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RabbitMQ.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< Updated upstream
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23f93456b8e52ff0c92a14124a0154f696955320")]
-=======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5420b00b7a536ec819c1294f4abbd529317431ab")]
->>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("RabbitMQ.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RabbitMQ.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
