@@ -18,7 +18,7 @@ namespace RabbitMQ.API.Controllers
         /// <summary>
         /// In-memory database
         /// </summary>
-        public static readonly List<Booking> bookings = [];
+        public static List<Booking> bookings = new List<Booking>();
 
         public BookingController(
             ILogger<BookingController> logger, 
